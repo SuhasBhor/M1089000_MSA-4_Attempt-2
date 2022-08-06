@@ -1,0 +1,27 @@
+2022-08-06 12:24:38,210 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - Initialize extent report
+2022-08-06 12:24:38,231 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - Feature DoveShampoo
+2022-08-06 12:24:40,040 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - Driver gets Initialize
+2022-08-06 12:24:40,042 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - Scenario search for product and verify
+2022-08-06 12:24:42,228 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - URL open in Browser
+2022-08-06 12:24:44,513 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - Click on the search bar
+2022-08-06 12:24:47,069 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - Enter search product in search bar
+2022-08-06 12:24:53,159 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - Verify the text
+2022-08-06 12:24:54,318 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - Takes Screenshot of screen
+2022-08-06 12:24:54,594 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - Driver gets Closed
+2022-08-06 12:24:56,379 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - Driver gets Initialize
+2022-08-06 12:24:56,379 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - Scenario verify LetsStopTheBeautyTest section
+2022-08-06 12:24:58,023 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - URL open in Browser
+2022-08-06 12:25:02,088 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - Scroll to LetsStopTheBeautyTest section
+2022-08-06 12:25:02,904 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - Click on the Discover More
+2022-08-06 12:25:06,962 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - Scroll to The Real Women behind #StopTheBeautyTest
+2022-08-06 12:25:08,027 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - Very the text The Real Women behind #StopTheBeautyTest
+2022-08-06 12:25:09,518 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - Takes Screenshot of screen
+2022-08-06 12:25:11,998 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - Driver gets Closed
+2022-08-06 12:25:13,774 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - Driver gets Initialize
+2022-08-06 12:25:13,774 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - Scenario Verify Terms of use section
+2022-08-06 12:25:15,487 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - URL open in Browser
+2022-08-06 12:25:19,627 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - Scroll to Footer
+2022-08-06 12:25:21,551 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - Verify the text Prohibited Uses
+2022-08-06 12:25:22,746 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - Takes Screenshot of screen
+2022-08-06 12:25:23,068 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - Driver gets Closed
+2022-08-06 12:25:30,153 [NonParallelWorker] INFO DoveShampoo.Utility.LogFourNet - Close Extent report
